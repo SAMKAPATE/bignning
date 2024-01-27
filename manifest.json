@@ -2,8 +2,8 @@
   "files": {
     "FASTN.ftd": {
       "name": "FASTN.ftd",
-      "checksum": "1D624521B0AE727B0CE12AC0362919D4D116CDCCF205AE9FDBCACC6E2446CE54",
-      "size": 591
+      "checksum": "93E01AC1BBFD5B3E18A413860215FCE11F99E054C169ABFE30F9807B7148F1EC",
+      "size": 66
     },
     "FASTN/ds.ftd": {
       "name": "FASTN/ds.ftd",
@@ -35,15 +35,15 @@
       "checksum": "65056A1D6C6AAE6E3DC4626E29F4BD4B628B17A8E9CC1D3A5E8FE9F6743F306B",
       "size": 15406
     },
+    "image.jpg": {
+      "name": "image.jpg",
+      "checksum": "787DFF50E29958EBB0477D6E1FA35E98F46EFE43833D96DFFAC7244E01DA38EB",
+      "size": 140683
+    },
     "index.ftd": {
       "name": "index.ftd",
-      "checksum": "32532606DDF89B56B42BA173EEAC7F7E9006DEEC07ABF10F6ABE246DC0EC1482",
-      "size": 1190
-    },
-    "sidebar.ftd": {
-      "name": "sidebar.ftd",
-      "checksum": "98EA5E5D5540AA8CCFA6C4ABEE6C2D476F6E1310B6B7E8978E81F62368EFA035",
-      "size": 1281
+      "checksum": "74823F21D2DBF3CC196E3B11C1CC023339DC8F84A2359FD124C930DB8A293CA2",
+      "size": 274
     },
     "vercel.json": {
       "name": "vercel.json",
@@ -52,5 +52,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/samkapate/bignning/zip/refs/heads/main",
-  "checksum": "231B7A512BA5A98E4A83820B0E95D919C49645388E5831DE4BF0237EEA6A8AEA"
+  "checksum": "5DD2C8D655BD6B1222614CE2A21242416E06D4C1CAD63F77EF6858854CB2375D"
 }
